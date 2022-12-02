@@ -1,7 +1,5 @@
 #!/bin/bash
 
-touch output.txt
-
 infile=$(cat input.txt)
 list="$infile"
 
