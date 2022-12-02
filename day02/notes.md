@@ -34,7 +34,7 @@
 
 | Key        | Value                                                                        |
 | ---------- | ---------------------------------------------------------------------------- |
-| language   | Google Sheets                                                                |
-| time       | 22:50                                                                        |
+| language   | bash                                                                         |
+| time       | 35:90                                                                        |
 | difficulty | 1/5                                                                          |
 | music      | [Youtube - Anthology, OVERWERK](https://www.youtube.com/watch?v=RMrM_GKpJT0) |
